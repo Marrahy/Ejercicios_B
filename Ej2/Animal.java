@@ -10,10 +10,10 @@ public class Animal {
 
         animales.add(new Animal());
         animales.add(new Pajaro());
-        animales.add(new Carpintero());
-        animales.add(new Gallina());
-        animales.add(new Payaso());
-        animales.add(new Espada());
+        animales.add(new PajaroCarpintero());
+        animales.add(new PajaroGallina());
+        animales.add(new PezPayaso());
+        animales.add(new PezEspada());
 
          for (Animal a: animales) {
             System.out.println(a.toString());

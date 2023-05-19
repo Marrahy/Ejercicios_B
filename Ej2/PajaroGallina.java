@@ -1,6 +1,6 @@
 package Ej2;
 
-public class Gallina extends Pajaro{
+public class PajaroGallina extends Pajaro{
 
     @Override
     public String toString() {
