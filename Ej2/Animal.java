@@ -21,6 +21,6 @@ public class Animal {
     }
 
     public String toString() {
-        return "canta " + getClass();
+        return "canta " + getClass().getSimpleName();
     }
 }
