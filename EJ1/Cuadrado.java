@@ -1,4 +1,4 @@
-package Ejercicios_B.EJ1;
+package EJ1;
 
 public class Cuadrado extends Figura{
 
